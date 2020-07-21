@@ -1,0 +1,15 @@
+{
+  "name": "ublockme",
+  "version": "1.0.0",
+  "description": "Twitter script that scans the poeple you follow and determines if they are blocking you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "trozler",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  }
+}
